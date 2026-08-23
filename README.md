@@ -1,31 +1,30 @@
-# Olá, eu sou Pedro Porto
+# Olá, eu sou Pedro Porto 👋
 
-Estudante de **Desenvolvimento de Sistemas**, focado em construir experiência prática por meio de projetos de programação, desenvolvimento Android, desenvolvimento Web, Banco de Dados e aplicação de Inteligência Artificial.
+Sou estudante de **Desenvolvimento de Sistemas na FAETEC**, no Rio de Janeiro, e transformo meus estudos em projetos práticos, documentação e evolução profissional.
 
-Atualmente estou desenvolvendo meu portfólio e registrando minha evolução aqui no GitHub.
+Atualmente desenvolvo o **SistemaGestao**, um projeto integrador que está evoluindo com programação, banco de dados, desenvolvimento web, Git/GitHub e IA aplicada.
 
 ## Sobre mim
 
 - Estudando Desenvolvimento de Sistemas
-- Desenvolvendo projetos Android com Kotlin
-- Praticando Java, XML, Git e GitHub
-- Estudando Banco de Dados e SQL
-- Desenvolvendo conhecimentos em aplicações Web
-- Explorando Inteligência Artificial aplicada ao desenvolvimento
-- Construindo projetos práticos para consolidar meu aprendizado
+- Praticando Java, POO, C#, JavaScript e SQL
+- Desenvolvendo projetos com Git e GitHub
+- Aprendendo a diagnosticar erros e documentar soluções
+- Explorando IA aplicada ao desenvolvimento e à automação
+- Construindo um portfólio orientado a projetos e entregas reais
 
 ## Tecnologias e ferramentas
 
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## Áreas em desenvolvimento
 
@@ -37,24 +36,13 @@ Atualmente estou desenvolvendo meu portfólio e registrando minha evolução aqu
 - Git e GitHub
 - Inteligência Artificial aplicada à programação e produtividade
 
-## Projeto em destaque
+## Projetos em destaque
 
-### Projeto01 — Aplicativo Android
-
-Meu primeiro projeto Android desenvolvido em Kotlin durante os estudos de Desenvolvimento de Sistemas.
-
-Principais conceitos praticados:
-
-- Tela de login
-- Validação de campos
-- Navegação entre telas
-- Envio de informações entre Activities
-- Eventos de clique
-- Mensagens com Toast
-- Layouts em XML
-- Versionamento com Git e GitHub
-
-[Ver Projeto01 no GitHub](https://github.com/PedroPorto021/Projeto01)
+| Projeto | Tecnologias | O que demonstra |
+|---|---|---|
+| [SistemaGestao](https://github.com/PedroPorto021/SistemaGestao) | C#, SQL, JavaScript e Git | Projeto integrador desenvolvido progressivamente, com código, documentação e versionamento |
+| [Projeto01](https://github.com/PedroPorto021/Projeto01) | Kotlin, Android e XML | Login, validações, navegação entre telas e interação com usuários |
+| [ProjetoOrientadoObjeto](https://github.com/PedroPorto021/ProjetoOrientadoObjeto) | Java e POO | Exercícios práticos de classes, objetos e fundamentos da orientação a objetos |
 
 ## Objetivo
 
